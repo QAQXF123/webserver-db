@@ -1,0 +1,189 @@
+2022-02-24 20:52:21.940849 [info]:========== Server init ==========
+2022-02-24 20:52:21.940885 [info]:Port:12345, OpenLinger: false
+2022-02-24 20:52:21.940892 [info]:Listen Mode: LT, OpenConn Mode: LT
+2022-02-24 20:52:21.940943 [info]:LogSys level: 1
+2022-02-24 20:52:21.940950 [info]:srcDir: /home/xf/a-web/myweb/resources/
+2022-02-24 20:52:21.940954 [info]:SqlConnPool num: 12, ThreadPool num: 6
+2022-02-24 20:52:21.941077 [info]:========== Server start ==========
+2022-02-24 20:52:25.794553 [info]:Client[6] in!
+2022-02-24 20:52:25.794666 [info]:Client[7] in!
+2022-02-24 20:52:25.802136 [info]:Client[6] quit!
+2022-02-24 20:52:25.948376 [info]:Client[7] quit!
+2022-02-24 20:52:25.970996 [info]:Client[6] in!
+2022-02-24 20:52:26.020282 [info]:Client[7] in!
+2022-02-24 20:52:26.024027 [info]:Client[7] quit!
+2022-02-24 20:54:26.373370 [info]:Client[7] in!
+2022-02-24 20:54:26.384634 [info]:Client[7] quit!
+2022-02-24 20:54:26.391026 [info]:Client[6] quit!
+2022-02-24 20:54:26.430151 [info]:Client[6] in!
+2022-02-24 20:54:26.431186 [info]:Client[6] quit!
+2022-02-24 20:54:26.438075 [info]:Client[6] in!
+2022-02-24 20:54:45.077950 [info]:Client[6] quit!
+2022-02-24 20:55:12.522644 [info]:Client[6] in!
+2022-02-24 20:55:12.522927 [info]:Client[7] in!
+2022-02-24 20:55:12.528362 [info]:Client[6] quit!
+2022-02-24 21:16:55.790023 [info]:========== Server init ==========
+2022-02-24 21:16:55.790064 [info]:Port:12345, OpenLinger: false
+2022-02-24 21:16:55.790072 [info]:Listen Mode: LT, OpenConn Mode: LT
+2022-02-24 21:16:55.790077 [info]:LogSys level: 1
+2022-02-24 21:16:55.790081 [info]:srcDir: /home/xf/a-web/myweb/resources/
+2022-02-24 21:16:55.790085 [info]:SqlConnPool num: 12, ThreadPool num: 6
+2022-02-24 21:16:55.790093 [info]:========== Server start ==========
+2022-02-24 21:16:58.498081 [info]:Client[6] in!
+2022-02-24 21:16:58.498778 [info]:Client[7] in!
+2022-02-24 21:16:58.501756 [info]:Client[6] quit!
+2022-02-24 21:17:06.953442 [info]:Client[7] quit!
+2022-02-24 21:17:24.705612 [info]:Client[6] in!
+2022-02-24 21:19:47.581095 [info]:========== Server init ==========
+2022-02-24 21:19:47.581169 [info]:Port:12345, OpenLinger: false
+2022-02-24 21:19:47.581255 [info]:Listen Mode: LT, OpenConn Mode: LT
+2022-02-24 21:19:47.581272 [info]:LogSys level: 1
+2022-02-24 21:19:47.581278 [info]:srcDir: /home/xf/a-web/myweb/resources/
+2022-02-24 21:19:47.581284 [info]:SqlConnPool num: 12, ThreadPool num: 6
+2022-02-24 21:19:47.581294 [info]:========== Server start ==========
+2022-02-24 21:19:50.152502 [info]:Client[6] in!
+2022-02-24 21:19:50.152666 [info]:Client[7] in!
+2022-02-24 21:19:50.158046 [info]:Client[6] quit!
+2022-02-24 21:21:43.805602 [info]:========== Server init ==========
+2022-02-24 21:21:43.805659 [info]:Port:12345, OpenLinger: false
+2022-02-24 21:21:43.805668 [info]:Listen Mode: LT, OpenConn Mode: LT
+2022-02-24 21:21:43.805672 [info]:LogSys level: 1
+2022-02-24 21:21:43.805676 [info]:srcDir: /home/xf/a-web/myweb/resources/
+2022-02-24 21:21:43.805680 [info]:SqlConnPool num: 12, ThreadPool num: 6
+2022-02-24 21:21:43.805760 [info]:========== Server start ==========
+2022-02-24 21:21:46.584870 [info]:Client[6] in!
+2022-02-24 21:21:46.585079 [info]:Client[7] in!
+2022-02-24 21:21:46.587973 [info]:Client[6] quit!
+2022-02-24 21:23:10.717042 [info]:========== Server init ==========
+2022-02-24 21:23:10.717080 [info]:Port:12345, OpenLinger: false
+2022-02-24 21:23:10.717088 [info]:Listen Mode: LT, OpenConn Mode: LT
+2022-02-24 21:23:10.717240 [info]:LogSys level: 1
+2022-02-24 21:23:10.717256 [info]:srcDir: /home/xf/a-web/myweb/resources/
+2022-02-24 21:23:10.717260 [info]:SqlConnPool num: 12, ThreadPool num: 6
+2022-02-24 21:23:10.717265 [info]:========== Server start ==========
+2022-02-24 21:23:12.888820 [info]:Client[6] in!
+2022-02-24 21:23:12.888986 [info]:Client[7] in!
+2022-02-24 21:23:12.891530 [info]:Client[6] quit!
+2022-02-24 21:25:00.540741 [info]:========== Server init ==========
+2022-02-24 21:25:00.540781 [info]:Port:12345, OpenLinger: false
+2022-02-24 21:25:00.540790 [info]:Listen Mode: LT, OpenConn Mode: LT
+2022-02-24 21:25:00.540794 [info]:LogSys level: 1
+2022-02-24 21:25:00.540866 [info]:srcDir: /home/xf/a-web/myweb/resources/
+2022-02-24 21:25:00.540879 [info]:SqlConnPool num: 12, ThreadPool num: 6
+2022-02-24 21:25:00.540996 [info]:========== Server start ==========
+2022-02-24 21:25:02.535966 [info]:Client[6] in!
+2022-02-24 21:25:02.536207 [info]:Client[7] in!
+2022-02-24 21:25:02.540757 [info]:Client[7] quit!
+2022-02-24 21:25:16.321397 [info]:Client[7] in!
+2022-02-24 21:26:29.766004 [info]:========== Server init ==========
+2022-02-24 21:26:29.766067 [info]:Port:12345, OpenLinger: false
+2022-02-24 21:26:29.766076 [info]:Listen Mode: LT, OpenConn Mode: LT
+2022-02-24 21:26:29.766081 [info]:LogSys level: 1
+2022-02-24 21:26:29.766085 [info]:srcDir: /home/xf/a-web/myweb/resources/
+2022-02-24 21:26:29.766089 [info]:SqlConnPool num: 12, ThreadPool num: 6
+2022-02-24 21:26:29.766248 [info]:========== Server start ==========
+2022-02-24 21:26:35.934596 [info]:Client[6] in!
+2022-02-24 21:28:57.149079 [info]:========== Server init ==========
+2022-02-24 21:28:57.149130 [info]:Port:12345, OpenLinger: false
+2022-02-24 21:28:57.149140 [info]:Listen Mode: LT, OpenConn Mode: LT
+2022-02-24 21:28:57.149144 [info]:LogSys level: 1
+2022-02-24 21:28:57.149148 [info]:srcDir: /home/xf/a-web/myweb/resources/
+2022-02-24 21:28:57.149152 [info]:SqlConnPool num: 12, ThreadPool num: 6
+2022-02-24 21:28:57.149156 [info]:========== Server start ==========
+2022-02-24 21:29:00.697647 [info]:Client[6] in!
+2022-02-24 21:29:00.697793 [info]:Client[7] in!
+2022-02-24 21:29:00.700094 [info]:Client[6] quit!
+2022-02-24 21:29:06.002132 [info]:Client[7] quit!
+2022-02-24 21:29:10.983063 [info]:Client[6] in!
+2022-02-24 21:29:10.983264 [info]:Client[7] in!
+2022-02-24 21:29:10.991859 [info]:Client[6] quit!
+2022-02-24 21:29:31.072160 [info]:Client[6] in!
+2022-02-24 21:29:31.074673 [info]:Client[7] quit!
+2022-02-24 21:29:37.337535 [info]:Client[6] quit!
+2022-02-24 21:29:39.437626 [info]:Client[6] in!
+2022-02-24 21:30:53.797167 [info]:========== Server init ==========
+2022-02-24 21:30:53.797195 [info]:Port:12345, OpenLinger: false
+2022-02-24 21:30:53.797202 [info]:Listen Mode: LT, OpenConn Mode: LT
+2022-02-24 21:30:53.797208 [info]:LogSys level: 1
+2022-02-24 21:30:53.797292 [info]:srcDir: /home/xf/a-web/myweb/resources/
+2022-02-24 21:30:53.797308 [info]:SqlConnPool num: 12, ThreadPool num: 6
+2022-02-24 21:30:53.797313 [info]:========== Server start ==========
+2022-02-24 21:30:57.599384 [info]:Client[6] in!
+2022-02-24 21:30:57.600979 [info]:Client[6] quit!
+2022-02-24 21:31:06.969036 [info]:Client[6] in!
+2022-02-24 21:31:06.970764 [info]:Client[6] quit!
+2022-02-24 21:31:27.944885 [info]:Client[6] in!
+2022-02-24 21:31:27.945071 [info]:Client[7] in!
+2022-02-24 21:31:27.949625 [info]:Client[6] quit!
+2022-02-24 21:31:27.990190 [info]:Client[7] quit!
+2022-02-24 21:31:28.002860 [info]:Client[6] in!
+2022-02-24 21:31:32.220521 [info]:Client[6] quit!
+2022-02-24 21:35:19.515563 [info]:Client[6] in!
+2022-02-24 21:35:19.515714 [info]:Client[7] in!
+2022-02-24 21:35:19.519528 [info]:Client[6] quit!
+2022-02-24 21:44:24.573964 [info]:========== Server init ==========
+2022-02-24 21:44:24.574007 [info]:Port:12345, OpenLinger: false
+2022-02-24 21:44:24.574130 [info]:Listen Mode: LT, OpenConn Mode: LT
+2022-02-24 21:44:24.574310 [info]:LogSys level: 1
+2022-02-24 21:44:24.574356 [info]:srcDir: /home/xf/a-web/myweb/resources/
+2022-02-24 21:44:24.574367 [info]:SqlConnPool num: 12, ThreadPool num: 6
+2022-02-24 21:44:24.574375 [info]:========== Server start ==========
+2022-02-24 21:44:26.584964 [info]:Client[6] in!
+2022-02-24 21:44:26.585133 [info]:Client[7] in!
+2022-02-24 21:44:26.588067 [info]:Client[6] quit!
+2022-02-24 21:44:37.033900 [info]:Client[7] quit!
+2022-02-24 21:44:37.055551 [info]:Client[6] in!
+2022-02-24 21:44:37.058250 [info]:Client[6] quit!
+2022-02-24 21:44:37.064484 [info]:Client[6] in!
+2022-02-24 21:44:37.064641 [info]:Client[7] in!
+2022-02-24 21:44:37.069739 [info]:Client[6] quit!
+2022-02-24 21:44:37.077250 [info]:Client[7] quit!
+2022-02-24 21:44:44.462498 [info]:Client[6] in!
+2022-02-24 21:44:44.462637 [info]:Client[7] in!
+2022-02-24 21:44:44.465427 [info]:Client[6] quit!
+2022-02-24 21:44:46.562733 [info]:Client[7] quit!
+2022-02-24 21:44:50.839356 [info]:Client[6] in!
+2022-02-24 21:44:50.840897 [info]:Client[6] quit!
+2022-02-24 21:44:50.860692 [info]:Client[6] in!
+2022-02-24 21:44:50.862602 [info]:Client[6] quit!
+2022-02-24 21:45:17.732366 [info]:Client[6] in!
+2022-02-24 21:45:17.733683 [info]:Client[6] quit!
+2022-02-24 21:45:24.081346 [info]:Client[6] in!
+2022-02-24 21:45:24.081531 [info]:Client[7] in!
+2022-02-24 21:45:24.085363 [info]:Client[6] quit!
+2022-02-24 21:45:24.128766 [info]:Client[7] quit!
+2022-02-24 21:45:24.139050 [info]:Client[6] in!
+2022-02-24 21:45:39.901114 [info]:Client[7] in!
+2022-02-24 21:45:39.905081 [info]:Client[7] quit!
+2022-02-24 21:45:41.254083 [info]:Client[7] in!
+2022-02-24 21:45:41.256985 [info]:Client[7] quit!
+2022-02-24 21:45:44.538009 [info]:Client[7] in!
+2022-02-24 21:45:44.539438 [info]:Client[7] quit!
+2022-02-24 21:45:44.543987 [info]:Client[7] in!
+2022-02-24 21:45:44.544963 [info]:Client[7] quit!
+2022-02-24 21:45:44.558007 [info]:Client[7] in!
+2022-02-24 21:45:44.564132 [info]:Client[8] in!
+2022-02-24 21:45:44.840988 [info]:Client[7] quit!
+2022-02-24 21:45:46.963277 [info]:Client[8] quit!
+2022-02-24 21:45:49.307168 [info]:Client[7] in!
+2022-02-24 21:45:49.309528 [info]:Client[7] quit!
+2022-02-24 21:45:49.338971 [info]:Client[7] in!
+2022-02-24 21:45:49.348684 [info]:Client[8] in!
+2022-02-24 21:45:49.661245 [info]:Client[7] quit!
+2022-02-24 21:45:51.994165 [info]:Client[8] quit!
+2022-02-24 21:45:55.427066 [info]:Client[6] quit!
+2022-02-24 21:46:51.611594 [info]:Client[6] in!
+2022-02-24 21:46:51.611922 [info]:Client[7] in!
+2022-02-24 21:46:51.616513 [info]:Client[6] quit!
+2022-02-24 21:46:51.688496 [info]:Client[7] quit!
+2022-02-24 21:46:51.744108 [info]:Client[6] in!
+2022-02-24 21:46:55.536076 [info]:Client[7] in!
+2022-02-24 21:46:55.539712 [info]:Client[7] quit!
+2022-02-24 21:46:57.941920 [info]:Client[7] in!
+2022-02-24 21:46:57.943272 [info]:Client[7] quit!
+2022-02-24 21:46:57.948788 [info]:Client[7] in!
+2022-02-24 21:46:57.949781 [info]:Client[7] quit!
+2022-02-24 21:46:57.962720 [info]:Client[7] in!
+2022-02-24 21:46:57.968350 [info]:Client[8] in!
+2022-02-24 21:47:03.326475 [info]:Client[7] quit!
+2022-02-24 21:47:15.618577 [info]:Client[8] quit!

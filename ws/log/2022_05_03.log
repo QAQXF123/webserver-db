@@ -1,0 +1,6 @@
+2022-05-03 23:04:45.200194 [info]:========== Server init ==========
+2022-05-03 23:04:45.200235 [info]:Port:12345, OpenLinger: false
+2022-05-03 23:04:45.200244 [info]:Listen Mode: LT, OpenConn Mode: LT
+2022-05-03 23:04:45.200248 [info]:LogSys level: 1
+2022-05-03 23:04:45.200252 [info]:srcDir: /home/xf/a-web/myweb-2-27/resources/
+2022-05-03 23:04:45.200372 [info]:SqlConnPool num: 12, ThreadPool num: 6

@@ -1,0 +1,16 @@
+2022-02-19 21:45:59.447090 [info]:========== Server init ==========
+2022-02-19 21:45:59.447125 [info]:Port:12345, OpenLinger: false
+2022-02-19 21:45:59.447232 [info]:Listen Mode: LT, OpenConn Mode: LT
+2022-02-19 21:45:59.447244 [info]:LogSys level: 1
+2022-02-19 21:45:59.447249 [info]:srcDir: /home/xf/a-web/myweb/resources/
+2022-02-19 21:45:59.447337 [info]:SqlConnPool num: 12, ThreadPool num: 6
+2022-02-19 21:45:59.447363 [info]:========== Server start ==========
+2022-02-19 21:46:04.274908 [info]:Client[6] in!
+2022-02-19 21:46:04.275020 [info]:Client[7] in!
+2022-02-19 21:46:04.280549 [info]:Client[6] quit!
+2022-02-19 21:46:04.344861 [info]:Client[7] quit!
+2022-02-19 21:46:04.396944 [info]:Client[6] in!
+2022-02-19 21:46:04.457459 [info]:Client[7] in!
+2022-02-19 21:46:04.459726 [info]:Client[7] quit!
+2022-02-19 21:46:09.432671 [info]:Client[7] in!
+2022-02-19 21:46:20.101792 [info]:Client[6] quit!
